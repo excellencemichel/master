@@ -1,4 +1,4 @@
-#!/home/michel/master/bin/python
+#!/home/michel/master/master/bin/python
 
 import sys
 import getopt

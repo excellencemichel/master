@@ -1,4 +1,4 @@
-#!/home/michel/master/bin/python3
+#!/home/michel/master/master/bin/python3
 #
 # The Python Imaging Library.
 # $Id$
